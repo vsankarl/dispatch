@@ -1,5 +1,5 @@
 Summary
-Software framework exemplifying the dispatch table mechanism, characterized by a bespoke key endowed with the capability to incorporate function pointers. These function pointers are parameterized to exhibit the versatility to accommodate a diverse array of arguments, be they in number or type, while also supporting a wide spectrum of return types.
+A software framework designed to illustrate the dispatch table mechanism, equipped with the versatility to accommodate a wide range of functions, regardless of their arguments' quantity and type, as well as their return types. Moreover, it supports indexing function pointers using various data types, enhancing its overall technical flexibility.
 
 Environment:
 Ubuntu 16.04 - 64 bit
