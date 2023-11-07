@@ -1,0 +1,76 @@
+ Test 1 plus  Test 1 equals  plus  Test 1
+ Test 1 plus 2 equals 3
+ Test 1 plus 2 equals 3
+ ==== Start =====
+ Test 1 plus 2 equals 3
+ ==== Start =====
+ Test 1 plus 2 equals 3
+ ==== Start =====
+ Test 1 plus 2 equals 3
+ ==== Start =====
+ Test 1 plus 2 equals hell
+ ==== Start =====
+ ==== Start =====
+Add 3 + 4 == 7
+
+Cancelling all the events opAdd
+Skip processing rest the actions
+From print Hello from cstyle string
+From print Hello from std string
+Before swap X - 1 Y - 2. After swap X - 2 Y - 1 
+
+Original string god reversed string dog 
+
+Add 10 + 20 == 30
+
+Cancelling all the events opAdd
+Skip processing rest the actions
+ ==== End =====
+ ==== Start =====
+Add 3 + 4 == 7
+Cancelling all the events opAdd
+Skip processing rest the actions
+Function printCStyleString - hello from cstyle string
+Function printStdString - hello from std string
+Before swap x - 1 y - 2. After swap x - 2 y - 1
+Original string god . Reversed string dog
+Add 10 + 20 == 30
+Cancelling all the events opAdd
+Skip processing rest the actions
+ ==== End =====
+ ==== Start =====
+Add 3 + 4 == 7
+Cancelling all the events opAdd
+Skip processing rest the actions
+Function printCStyleString - hello from cstyle string
+Function printStdString - hello from std string
+Before swap x - 1 y - 2. After swap x - 2 y - 1
+Original string god. Reversed string dog
+Add 10 + 20 == 30
+Cancelling all the events opAdd
+Skip processing rest the actions
+ ==== End =====
+ ==== Start =====
+Add 3 + 4 == 7
+Cancelling all the events opAdd
+Skip processing rest the actions
+Function printCStyleString - hello from cstyle string
+Function printStdString - hello from std string
+Before swap x - 1 y - 2. After swap x - 2 y - 1
+Original string god. Reversed string dog
+Add 10 + 20 == 30
+Cancelling all the events opAdd
+Skip processing rest the actions
+ ==== End =====
+ ==== Start =====
+Add 3 + 4 == 7
+Cancelling all the events opAdd
+Skip processing rest the actions
+Function printCStyleString - hello from cstyle string
+Function printStdString - hello from std string
+Before swap x - 1 y - 2. After swap x - 2 y - 1
+Original string god. Reversed string dog
+Add 10 + 20 == 30
+Cancelling all the events opAdd
+Skip processing rest the actions
+ ==== End =====

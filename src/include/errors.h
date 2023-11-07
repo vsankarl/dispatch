@@ -1,0 +1,8 @@
+#pragma once
+
+#define ERR_INVALID_PARAMETER           5001
+#define ERR_MEMORY_FAILURE              5002
+#define ERR_EVENT_NOT_FOUND             5003
+#define ERR_INVALID_PARAMETER_TYPE      5004
+#define ERR_NO_EVENT_ACTIONS_FOUND      5005
+#define ERR_NO_EVENT_COLLECTION_FOUND   5006
