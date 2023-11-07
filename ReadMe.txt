@@ -1,6 +1,5 @@
 Summary
-Framework that demonstrates dispatch table mechanism. The dispatch table has a custom key with the ability to add function pointers. The function pointers are templatized to have the ability to arbitrarily add any number or type of arguments and any return type.
-
+Software framework exemplifying the dispatch table mechanism, characterized by a bespoke key endowed with the capability to incorporate function pointers. These function pointers are parameterized to exhibit the versatility to accommodate a diverse array of arguments, be they in number or type, while also supporting a wide spectrum of return types.
 
 Environment:
 Ubuntu 16.04 - 64 bit
